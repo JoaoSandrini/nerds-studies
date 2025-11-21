@@ -4,6 +4,7 @@ Esse repositório lista os materiais de estudo para novos alunos de Iniciação 
 Links marcados com `*` são **essenciais**! Sinta-se livre para explorar a documentação e outros recursos além do listado aqui.
 Alguns materiais estão disponíveis em Português, entretanto, os documentos originais (em Inglês) são mais completos.
 O presente trabalho foi realizado com apoio da Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP), Brasil. Processo nº 2024/23727-8.
+
 ---
 
 This repository lists study materials for new Scientific Initiation students joining **NERDS - UFES**.  
