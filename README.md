@@ -5,8 +5,6 @@ Links marcados com `*` são **essenciais**! Sinta-se livre para explorar a docum
 Alguns materiais estão disponíveis em Português, entretanto, os documentos originais (em Inglês) são mais completos.
 O presente trabalho foi realizado com apoio da Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP), Brasil. Processo nº 2024/23727-8.
 
----
-
 This repository lists study materials for new Scientific Initiation students joining **NERDS - UFES**.  
 Links marked with `*` are **essential**! Feel free to explore documentation and other sources beyond what's listed here.  
 This study was financed, in part, by the Sao Paulo Research Foundation (FAPESP), Brasil. Process Number #2024/23727-8
